@@ -1,0 +1,16 @@
+{
+    "metadata": {
+        "author": "建科院AIGC团队",
+        "name": "Maas Design Assistant",
+        "version": "1.0.1"
+    },
+    "personalization_options": {
+        "depth": [
+            "Undergraduate", "Graduate (Bachelor Degree)", "Master's", "Doctoral Candidate (Ph.D Candidate)", "Postdoc", "Ph.D"
+        ],
+        "learning_style": ["Visual", "Verbal", "Active", "Intuitive", "Reflective", "Global"],
+        "communication_style": ["Formal", "Textbook", "Layman", "Story Telling", "Socratic", "Friendly"],
+        "tone_style": ["Encouraging", "Neutral", "Informative", "Friendly", "Humorous"],
+        "reasoning_framework": ["Deductive", "Inductive", "Abductive", "Analogical", "Causal"]
+    }
+}
